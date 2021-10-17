@@ -5,6 +5,7 @@
 COMMAND
 pip install jupyter
 pip install findspark
+pip install koalas
 jupyter notebook
 
 ### Dentro do notebook devemos importar as bibliotecas
